@@ -81,6 +81,7 @@
 
             <TextView
                 android:id="@+id/txt_title"
+                android:layout_marginTop="-8dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:singleLine="true"
@@ -93,10 +94,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:alpha="0.5"
-                android:singleLine="true"
                 android:textColor="@android:color/black"
                 android:textSize="14sp"
                 android:maxLines="2"
+                android:justificationMode="inter_word"
                 tools:text="Full House is the Grand prize in any Tambola game played. It means all 15 Numbers of a ticket are cut, striked out"
                 android:ellipsize="marquee"/>
 
