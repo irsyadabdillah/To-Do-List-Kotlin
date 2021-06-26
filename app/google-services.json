@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468195996018",
+    "project_id": "to-do-list-refactory",
+    "storage_bucket": "to-do-list-refactory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468195996018:android:ec6f0f5f87a0ae9f532deb",
+        "android_client_info": {
+          "package_name": "com.irzstudio.todolistrefactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468195996018-mercddbmv24lio92lvtsu6k0gjltc9cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrJGl863rJzObpx7xA3yCAlqtXOjEWDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468195996018-mercddbmv24lio92lvtsu6k0gjltc9cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
